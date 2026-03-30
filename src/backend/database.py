@@ -76,6 +76,17 @@ initial_activities = {
         "max_participants": 22,
         "participants": ["liam@mergington.edu", "noah@mergington.edu"]
     },
+    "Manga Maniacs": {
+        "description": "Explore the fantastic stories of the most interesting characters from Japanese Manga (graphic novels).",
+        "schedule": "Tuesdays at 7:00 PM",
+        "schedule_details": {
+            "days": ["Tuesday"],
+            "start_time": "19:00",
+            "end_time": "20:00"
+        },
+        "max_participants": 15,
+        "participants": []
+    },
     "Basketball Team": {
         "description": "Practice and compete in basketball tournaments",
         "schedule": "Wednesdays and Fridays, 3:15 PM - 5:00 PM",
